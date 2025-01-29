@@ -1,4 +1,4 @@
-Repoisitory Clonen Herunterladen oder alternativen
+Repository Clonen Herunterladen o.ä.
 
 In IDE öffnen
 
