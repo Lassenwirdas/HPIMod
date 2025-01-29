@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "hpimod:hpi_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "hpimod:hpi_badge"
+  }
+}
